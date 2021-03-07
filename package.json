@@ -1,0 +1,25 @@
+{
+  "name": "Video-Maker",
+  "version": "1.0.0",
+  "description": "Projeto para gerar vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spinnafre/Video-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spinnafre/Video-Maker/issues"
+  },
+  "homepage": "https://github.com/Spinnafre/Video-Maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.18"
+  }
+}
