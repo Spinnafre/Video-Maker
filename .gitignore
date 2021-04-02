@@ -42,6 +42,7 @@ node_modules/
 credential/
 content.json
 jspm_packages/
+content/*.png
 
 # TypeScript v1 declaration files
 typings/
